@@ -4,11 +4,11 @@
 
 This project demonstrates a basic data transformation pipeline using AWS Glue and Amazon Athena to process Spotify data stored in CSV format. The pipeline involves loading data from three CSV files (artists.csv, tracks.csv, albums.csv), performing basic transformations such as joins and column filtering using AWS Glue, and then storing the refined data in an Amazon S3 directory named datawarehouse. Finally, users can query the refined data directly from Amazon S3 using Amazon Athena.
 
-## Architecture Diagram
 
-## Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+Here is basic overview of architecture diagram
+
+![](architecture_diagram.png)
 
 
 
